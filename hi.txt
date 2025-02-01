@@ -1,0 +1,1 @@
+this is a plagiarism checker using difflib library and from it we use sequence matcher module

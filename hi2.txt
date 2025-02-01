@@ -1,0 +1,1 @@
+this is a second file that will be opened and checked for plag.
